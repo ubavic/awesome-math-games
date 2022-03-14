@@ -11,6 +11,7 @@ There are two requirements for the game to be on this list:
  - [A Slower Speed of Light](http://gamelab.mit.edu/games/a-slower-speed-of-light/) - a first-person game prototype in which players navigate a 3D space while picking up orbs that reduce the speed of light in increments.
  - [Euclidea](https://www.euclidea.xyz/) - geometric Constructions Game with Straightedge and Compass.
  - [Fragments of Euclid](https://nusan.itch.io/fragments-of-euclid) - a game about exploring and solving puzzle in a mind-bending environment inspired by M.C. Escher.
+ - [Hyperbolica](https://store.steampowered.com/app/1256230/Hyperbolica/) - a whimsical Non-Euclidean adventure with mind-bending worlds full of games, puzzles, mazes, and secrets!
  - [HyperRogue](http://www.roguetemple.com/z/hyper/) - tactical puzzle/roguelike on a hyperbolic plane.
  - [Miegakure](https://miegakure.com/) - a game where you navigate a four-dimensional world to perform miraculous feats and solve puzzles. 
  - [Sokyokuban](https://sokyokuban.com/) - Sokoban on a hyperbolic plane.
